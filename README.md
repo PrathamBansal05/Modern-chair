@@ -1,1 +1,1 @@
-[Modern chair](https://raw.githack.com/PrathamBansal05/Weather-App/main/index.html)
+[Modern chair](https://raw.githack.com/PrathamBansal05/Modern-chair/main/index.html)
